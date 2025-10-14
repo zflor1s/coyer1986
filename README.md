@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Dmitry Semenov
 
-<!--
-**coyer1986/coyer1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
+Developer with background in Node.js, Infrastructure, Azure. I enjoy building small, reliable systems.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coyer1986&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+- 🐦 Twitter: [@coyer-phobics-0w](https://twitter.com/coyer-phobics-0w)
+- 💬 Telegram: [@coyer-phobics-0w](https://t.me/coyer-phobics-0w)
+- 🌍 Website: [http://coyer-phobics-0w.com](http://coyer-phobics-0w.com)
+- 📧 Email: coyer-phobics.0w@icloud.com
+
+## 📍 Location
+Moscow, Russia
+
+---
+⭐️ From [Dmitry Semenov](http://coyer-phobics-0w.com)
